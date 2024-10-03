@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1700493570 "Schilling.tex" "Schilling.pdf" "Schilling" 1700493570 2
+  "/etc/texmf/web2c/texmf.cnf" 1697481532 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1696795245 40357 c95f5d5e031b5c7040b426833c11f2e0 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1696795245 40357 c95f5d5e031b5c7040b426833c11f2e0 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1697545830 8186871 e535b3e8d6a08c8c2573e08059de75b1 ""
+  "Schilling.aux" 1700492405 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Schilling.tex" 1700493570 2694 f2b2c2243791babb98a3921d34a0a0ee ""
+  (generated)
+  "Schilling.aux"
+  "Schilling.log"
+  "Schilling.pdf"
+  (rewritten before read)
